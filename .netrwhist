@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/lbl/.vim/plugged/vim-indent-guides/plugin'
+let g:netrw_dirhist_0='/home/lbl/.vim/plugged/vim-indent-guides'
+let g:netrw_dirhist_9='/home/lbl/.vim/plugged/pear-tree/plugin'
+let g:netrw_dirhist_8='/home/lbl/.vim/plugged/pear-tree'
+let g:netrw_dirhist_7='/'
+let g:netrw_dirhist_6='/home'
+let g:netrw_dirhist_5='/home/lbl'
+let g:netrw_dirhist_4='/home/lbl/.vim'
+let g:netrw_dirhist_3='/home/lbl/.vim/plugged'
+let g:netrw_dirhist_2='/home/lbl/.vim/plugged/pear-tree'
